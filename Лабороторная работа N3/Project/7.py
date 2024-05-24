@@ -25,3 +25,4 @@ async def get_model(name: str | None = "", password: str | None = ""):
 # http://127.0.0.1:8000/?password=adminn
 # http://127.0.0.1:8000/?name=admin
 # http://127.0.0.1:8000/?name=admin&password=adminn
+# http://127.0.0.1:8000/?name=admin&password=admin
